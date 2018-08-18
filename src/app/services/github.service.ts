@@ -8,8 +8,8 @@ import { throwError } from 'rxjs';
 })
 export class GithubService {
   private username: string;
-  private clientId = '152cbca15fd221bdc7b7';
-  private clientSecret = '149caf389d0e1ecbde36e8a9f876c7d26b4fa8e8';
+  private clientId = 'hahahahaha';
+  private clientSecret = 'hahahahahahahahahahahahah';
 
   constructor(private _http: Http) {
     console.log('Github service ready...');
